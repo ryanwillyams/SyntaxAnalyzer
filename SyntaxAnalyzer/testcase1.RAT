@@ -1,0 +1,15 @@
+Tokens        Lexemes       Line
+------        -------       ----
+operator      @@            1
+identifier    a             2
+operator      +             2
+identifier    b             2
+identifier    c             3
+operator      +             3
+identifier    d             3
+identifier    e             4
+operator      -             4
+identifier    f             4
+identifier    g             5
+operator      *             5
+identifier    n             5
